@@ -1,0 +1,3 @@
+Nota:
+El script TransFortescue corresponde a un modulo con funciones para calcular componentes simétricas y potencias.
+El script Calcula_potencias corresponde a la interfaz de usuario donde se pueden realizar los cálculos. Este importa TransFortescue para su funcionamiento.
